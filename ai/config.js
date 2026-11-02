@@ -4,6 +4,8 @@ const DEFAULT_ENV = {
   model: process.env.EXPO_PUBLIC_AI_MODEL,
 };
 
+// forked from working version github repo
+
 // ======================================================
 // PART 1 — CONFIGURE THE PROVIDER
 //
